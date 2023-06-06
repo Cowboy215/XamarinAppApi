@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\XamarinAcountAppApi1.props" />
+</Project>
